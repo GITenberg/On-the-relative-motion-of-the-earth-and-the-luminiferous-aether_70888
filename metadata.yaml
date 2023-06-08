@@ -1,0 +1,45 @@
+_repo: On-the-relative-motion-of-the-earth-and-the-luminiferous-aether_70888
+_version: 0.0.1
+alternative_title: On the relative motion of the earth and the luminiferous aether
+creator:
+  authors:
+  - agent_name: Michelson, Albert A. (Albert Abraham)
+    aliases:
+    - Michelson, Albert Abraham
+    - Michelson, A. A. (Albert Abraham)
+    birthdate: 1852
+    deathdate: 1931
+    gutenberg_agent_id: '4093'
+    url: http://www.gutenberg.org/2009/agents/4093
+    wikipedia: https://en.wikipedia.org/wiki/Albert_A._Michelson
+  - agent_name: Morley, Edward Williams
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '55979'
+    url: http://www.gutenberg.org/2009/agents/55979
+    wikipedia: https://en.wikipedia.org/wiki/Edward_W._Morley
+description: ''
+gutenberg_issued: '2023-05-31'
+identifiers:
+  gutenberg: '70888'
+language: en
+pgterms:marc904: https://archive.org/details/s5philosophicalm24lond
+pgterms:marc905: 20230526030240moseley
+pgterms:marc906: '1887'
+pgterms:marc907: UK
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: '  $aUK :$bTaylor & Francis, $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ether (Space)'
+- !lcsh 'Wave theory of light'
+- !lcsh 'Light -- Speed'
+- !lcsh 'Standards of length'
+- !lcc 'Q'
+- !lcc 'QC'
+- GITenberg
+title: On the relative motion of the earth and the luminiferous æther
+url: http://www.gutenberg.org/ebooks/70888
