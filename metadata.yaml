@@ -1,6 +1,9 @@
 _repo: On-the-relative-motion-of-the-earth-and-the-luminiferous-aether_70888
 _version: 0.1.0
 alternative_title: On the relative motion of the earth and the luminiferous aether
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Michelson, Albert A. (Albert Abraham)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55979
     wikipedia: https://en.wikipedia.org/wiki/Edward_W._Morley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70888#On-the-relative-motion-of-the-earth-and-the-luminiferous-aether
 gutenberg_issued: '2023-05-31'
 identifiers:
   gutenberg: '70888'
